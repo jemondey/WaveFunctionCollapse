@@ -78,6 +78,6 @@ The system applies the following constraints:
 ## Screenshots
 
 ### 2D Generation Mode
-![2D Generation Example](Screenshots/spawn1.jpg)
+![2D Generation Example](https://imgur.com/jIBCnce)
 
-![2D Generation Example](Screenshots/spawn2.jpg)
+![2D Generation Example](https://imgur.com/ZzQy4Br)
